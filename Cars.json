@@ -1,0 +1,25 @@
+{
+    "Head": {
+        "RegistrationNumber": "Test",
+        "Owner": "me",
+        "Price": 1,
+        "NextContainer": {
+            "RegistrationNumber": "Test2",
+            "Owner": "me",
+            "Price": 2,
+            "NextContainer": {
+                "RegistrationNumber": "Test3",
+                "Owner": "me",
+                "Price": 3,
+                "NextContainer": {
+                    "RegistrationNumber": "Test4",
+                    "Owner": "me",
+                    "Price": 4,
+                    "NextContainer": null
+                }
+            }
+        }
+    },
+    "Price": 1,
+    "Owner": "me"
+}
